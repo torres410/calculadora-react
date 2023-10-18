@@ -8,8 +8,8 @@ https://torres410.github.io/calculadora-react/build
 
 ### Funcionalidades Principales
 
-Operaciones Básicas: Realiza sumas, restas, multiplicaciones y divisiones de números.
-Borrado y Limpieza: Permite borrar números individualmente o limpiar completamente la pantalla de cálculo.
+- Operaciones Básicas: Realiza sumas, restas, multiplicaciones y divisiones de números.
+- Borrado y Limpieza: Permite borrar números individualmente o limpiar completamente la pantalla de cálculo.
 
 ### Tecnologías Utilizadas
 
